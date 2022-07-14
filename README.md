@@ -60,3 +60,8 @@ print(tongxinyun_elec_query(tongxinyun_open_token))
            ...,
  'msg': 'success'}
 ```
+
+### Obsoleted
+
+由于同心云外网可用性差以及作者离校等原因，本项目若无意外将不会再维护。
+后续有迁移到能源中心查询的计划。
